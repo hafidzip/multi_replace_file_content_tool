@@ -1,0 +1,7 @@
+[project]
+name = "multi-replace-file-content-tool"
+version = "0.1.0"
+description = "Edit multiple non-adjacent blocks in a single file with one call."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
